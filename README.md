@@ -1,6 +1,6 @@
 # Hi, I'm Asif Nazir Bhat 👋
 
-🎯 **AI Engineer | FastAPI | ML & LLM Enthusiast**  
+🎯 **AI Engineer | FastAPI | NextJs | RestAPI | GraphQL | AWS**  
 📍 **Bangalore, India**  
 📧 [asifnazirbhat313@gmail.com](mailto:asifnazirbhat313@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/as1fnaz1r/) | [GitHub](https://github.com/As1fNaz1r) | [LeetCode](https://leetcode.com/u/Asif_Nazir/)
