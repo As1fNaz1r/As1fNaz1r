@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi 👋, I'm Asif Nazir Bhat</h1>
-<h3 align="center">AI/ML Engineer | LLM Specialist | Backend Developer</h3>
+<h3 align="center">AI/ML Engineer | AWS | Backend Developer</h3>
 
 ---
 
@@ -11,7 +11,6 @@ I am a **Founding Engineer at NoGap AI** with a strong background in **AI/ML, La
 - 🔭 Currently working on **AI-driven educational tools** & **LLM-powered microservices**
 - 🌱 Exploring advanced topics in **Agentic AI Systems** and **Federated Learning**
 - 📫 Reach me at **asifnazirbhat313@gmail.com**
-- ⚡ Fun fact: I believe **AI + Creativity** can change education forever.
 
 ---
 
@@ -29,7 +28,7 @@ I am a **Founding Engineer at NoGap AI** with a strong background in **AI/ML, La
 `PostgreSQL` `MongoDB` `DynamoDB` `Pandas` `NumPy`  
 
 **DevOps & Cloud:**  
-`Docker` `CI/CD` `AWS (Bedrock, S3, DynamoDB)`
+`Docker` `CI/CD` `AWS (Bedrock, S3, Lambda, SQS, DynamoDB)` `Terraform`
 
 ---
 
